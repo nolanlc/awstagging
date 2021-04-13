@@ -1,0 +1,4 @@
+ID,Instance_type,Name,ServerID
+i-0300ee92a18fccbb7,t2.micro,,one
+i-075b4d0fcf4cd4b08,t2.micro,aws-cloud9-Cloud9Dev-6282a7edd0714ba69fd7687307039b1f,two
+i-0d237609cb099b111,t2.micro,test-webserver,three
